@@ -1,12 +1,14 @@
 # EFI FOR Lenovo Ideapad 330-151KB
 
-- tested and works on MacOS Sonoma 14.7.6 (23H626)
+- tested and works on MacOS Sequoia 15.5 (24F74)
 
 Processor:	Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
 Graphics:	Intel(R) UHD Graphics 620 
 
 
 **Make sure to regenerate SMBIOS**
+
+**Install Heliport for wifi**
 
 **Ethernet DOES NOT WORK**
 
@@ -15,5 +17,3 @@ Graphics:	Intel(R) UHD Graphics 620
 **DO NOT BOOT WINDOWS FROM OPENCORE BOOTPICKER, It is not recommended and gives BSOD.**
 
  **Everything works except ethernet**
-
- **This EFI only works on macOS Sonoma**
